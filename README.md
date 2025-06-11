@@ -1,5 +1,5 @@
 # React-Native-Shopping-App
-A simple Shopping App in React Native. For Complete Functionality... check https://www.youtube.com/watch?v=Lf0MLrcSx0Q
+A simple Shopping App in React Native. For Complete Functionality... check 
 # Close the app and run "npm install" in root folder
 
 # Screen Shots
